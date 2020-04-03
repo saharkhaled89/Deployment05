@@ -21,4 +21,8 @@ Finish time: ____9pm_
 Actual time needed to complete: 3 hours_____
 
 herokuapp link :https://deployment-lab05.herokuapp.com/
-live link:
+live link:https://saharkhaled89.github.io/Deployment05/public/index
+repo link:https://github.com/saharkhaled89/Deployment05
+tree branch link:https://github.com/saharkhaled89/Deployment05/tree/lab05
+pull request link:https://github.com/saharkhaled89/Deployment05/pull/1
+
